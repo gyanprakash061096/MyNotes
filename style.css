@@ -1,5 +1,5 @@
 body{
-    background-image: url("background.jpg");
+    background-color: tomato;
 }
 #addTxt, #addhead{
     border-radius: 25px;
